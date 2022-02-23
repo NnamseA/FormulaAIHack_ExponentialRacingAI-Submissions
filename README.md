@@ -3,26 +3,17 @@ FormulaAIHack2022 Team_ExponentialRacingAI Submissions
 
 2022 #FormulaAIHack
 
-
-
-
 Team ExponentialRacingAI
 
 Technical submission:
-Application of Machine Learning Models to provided dataset for the 2022 #FormulaAIHack
+Application of Low-Code Machine Learning Models to provided dataset for the 2022 #FormulaAIHack
 
 22/02/2022
 
 
-
 Team: Nnamse Akpan, Qasid Ali , Danielle Alice Desanges Aucéane THIAM MÉKÀ de GOGUENHEIM
 
-
-
-
-Task: As non-datascience professionals, our aim was to see if we could replicate Challenge 1: Data Analytics during the #FormulaAIHack on a low code environment. We succeeded in obtaining, cleaning the dataset and successfully applying chosen Oracle Machine Learning Models to said dataset to achieve the highest possible confidence and accuracy. 
-
-
+Task: Our aim was to see if we could replicate Challenge 1: Data Analytics during the #FormulaAIHack on a low code environment. We succeeded in obtaining, cleaning the dataset and successfully applying chosen Oracle Machine Learning Models to said dataset to achieve the highest possible confidence and accuracy. 
 
 1.	Data Sources:
 Game play 
@@ -50,8 +41,6 @@ Linear Regression Machine Learning Model targeted at column M_WEATHER  96% Accur
 
 100% Accuracy (Overfitting) 
 
-
-
 Method of Operation
 
 OAC
@@ -64,5 +53,7 @@ Perform prediction
 Prescriptive automated insights
 VIsualization
 
+Youtube:https://www.youtube.com/watch?v=5ufmQmzMCI4
+Github:https://github.com/NnamseA/FormulaAIHack_ExponentialRacingAI-Submissions/edit/main/README.md
 
 
